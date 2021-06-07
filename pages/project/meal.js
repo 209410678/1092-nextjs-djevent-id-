@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import cards from './meal-data';
+import cards from '../../meal-data';
 import styles from './meal.module.css';
 
 export default function CardsPage() {
